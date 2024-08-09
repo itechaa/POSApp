@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcc4eaf5.css",
+    "main.js": "/static/js/main.df04d77a.js",
+    "static/js/27.2324b969.chunk.js": "/static/js/27.2324b969.chunk.js",
+    "static/media/beans.jpg": "/static/media/beans.f3459b4a977c4b2d1b07.jpg",
+    "static/media/lenovo.png": "/static/media/lenovo.65ce6637287cbe9220b1.png",
+    "static/media/prodicon.png": "/static/media/prodicon.50a782840a1345924f62.png",
+    "static/media/employe.png": "/static/media/employe.499dcd075636186f39b9.png",
+    "static/media/excel.png": "/static/media/excel.9497ece07454014a9414.png",
+    "static/media/dxicons.woff": "/static/media/dxicons.c568ff14b17313b699e2.woff",
+    "static/media/dxicons.ttf": "/static/media/dxicons.506efc48bb7054c11c4d.ttf",
+    "static/media/user.png": "/static/media/user.7395ff962e1949388ba7.png",
+    "static/media/blank.jpg": "/static/media/blank.06ea22968f4c93681a3d.jpg",
+    "static/media/dxicons.woff2": "/static/media/dxicons.dc1bbe3fe80897e2c012.woff2",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.bcc4eaf5.css",
+    "static/js/main.df04d77a.js"
+  ]
+}
